@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# données et résultats (-> Zenodo)
+*.fa
+*.fa.gz
+*.fna
+*.faa
+*.bam
+*.tsv.gz
+results/
+logs/
+*.log
